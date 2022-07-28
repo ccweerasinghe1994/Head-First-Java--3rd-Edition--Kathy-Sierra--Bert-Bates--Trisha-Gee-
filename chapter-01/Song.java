@@ -1,7 +1,5 @@
 public class Song{
   
-  
-  
   public static void main(String[] args){
     int bottleCount = 10;
     String word = "bottles";
